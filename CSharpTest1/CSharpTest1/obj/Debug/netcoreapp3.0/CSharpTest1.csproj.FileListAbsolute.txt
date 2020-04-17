@@ -1,0 +1,11 @@
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\bin\Debug\netcoreapp3.0\CSharpTest1.exe
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\bin\Debug\netcoreapp3.0\CSharpTest1.deps.json
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\bin\Debug\netcoreapp3.0\CSharpTest1.runtimeconfig.json
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\bin\Debug\netcoreapp3.0\CSharpTest1.runtimeconfig.dev.json
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\bin\Debug\netcoreapp3.0\CSharpTest1.dll
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\bin\Debug\netcoreapp3.0\CSharpTest1.pdb
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\obj\Debug\netcoreapp3.0\CSharpTest1.csprojAssemblyReference.cache
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\obj\Debug\netcoreapp3.0\CSharpTest1.AssemblyInfoInputs.cache
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\obj\Debug\netcoreapp3.0\CSharpTest1.AssemblyInfo.cs
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\obj\Debug\netcoreapp3.0\CSharpTest1.dll
+C:\Users\tekks\source\repos\CSharpTest1\CSharpTest1\obj\Debug\netcoreapp3.0\CSharpTest1.pdb
